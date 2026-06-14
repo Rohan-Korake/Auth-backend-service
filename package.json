@@ -1,0 +1,26 @@
+{
+  "name": "Auth-backend-service",
+  "version": "1.0.0",
+  "description": "Backend service for user login, logout, and session management.",
+  "keywords": [
+    "Auth"
+  ],
+  "homepage": "https://github.com/Rohan-Korake/auth-backend-service#readme",
+  "bugs": {
+    "url": "https://github.com/Rohan-Korake/auth-backend-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan-Korake/auth-backend-service.git"
+  },
+  "license": "ISC",
+  "author": "Rohan Korake",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.4"
+  }
+}
